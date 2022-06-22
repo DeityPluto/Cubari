@@ -1,0 +1,30 @@
+{
+  "title": "With Sensei",
+  "description": "",
+  "artist": "Urec",
+  "author": "Urec",
+  "cover": "https://drive.google.com/file/d/13-fhqs_0GvyPJPfxCMBWNsJyoqccf8Xl/view?usp=drivesdk",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1655910592",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=13-fhqs_0GvyPJPfxCMBWNsJyoqccf8Xl"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1655910628",
+      "groups": {
+        "": [
+          "https://drive.google.com/file/d/1f5AXGaWlVPhATxCm6nQzaAKA9vInvt4V/view?usp=drivesdk",
+          "https://drive.google.com/uc?export=view&id=1f5AXGaWlVPhATxCm6nQzaAKA9vInvt4V"
+        ]
+      }
+    }
+  }
+}
